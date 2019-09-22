@@ -1,0 +1,4 @@
+[submodule "thridparty/ScriptableRenderPipeline"]
+	path = thridparty/ScriptableRenderPipeline
+	url = https://github.com/Unity-Technologies/ScriptableRenderPipeline.git
+	branch = master
