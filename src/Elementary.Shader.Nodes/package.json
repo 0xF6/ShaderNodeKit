@@ -1,0 +1,10 @@
+{
+    "name": "com.0xf6.shadergraph.nodes",
+    "version": "7.0.1",
+    "displayName": "ShaderNodes",
+    "unity": "2020.1",
+    "description": "Additional nodes for shadergraph",
+    "dependencies": {
+		"com.unity.shadergraph": "7.0.1"
+	}
+}

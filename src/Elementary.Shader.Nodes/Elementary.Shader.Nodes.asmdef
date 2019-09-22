@@ -1,0 +1,16 @@
+{
+    "name": "com.0xf6.shadergraph.nodes",
+    "references": [
+        "Unity.ShaderGraph.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
