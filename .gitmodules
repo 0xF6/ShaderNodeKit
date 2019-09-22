@@ -2,3 +2,7 @@
 	path = thridparty/ScriptableRenderPipeline
 	url = https://github.com/Unity-Technologies/ScriptableRenderPipeline.git
 	branch = master
+[submodule "thridparty/UnityEngine"]
+	path = thridparty/UnityEngine
+	url = https://github.com/Unity-Technologies/UnityCsReference.git
+	branch = 2020.1
